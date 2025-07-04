@@ -53,7 +53,7 @@ Predict if a person earns more than 50K per year using features like age, educat
 
 ## 📊 Model Evaluation
 
-- Accuracy Score: `XX.X%` *(Update with actual)*  
+- Accuracy Score: `82.2%`
 - Confusion Matrix, Precision, Recall, F1 Score plotted.
 
 ---
